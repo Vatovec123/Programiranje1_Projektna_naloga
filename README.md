@@ -1,7 +1,7 @@
 # Programiranje1_Projektna_naloga
 ## Projektna naloga iz analize podatkov
 
-V projektni nalogi bom analizirala ponudbo stanovanj v Sloveniji. Podatke bom pridobila iz nepremčninskega portala Nepremičnine.net.
+V projektni nalogi bom analizirala ponudbo stanovanj v Sloveniji. Podatke bom pridobila iz nepremičninskega portala Nepremičnine.net.
 
 Za posamzno stanovanje bom zajela naslednje podatke:
 * lokacija
